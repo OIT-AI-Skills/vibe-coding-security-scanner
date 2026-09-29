@@ -1,0 +1,21 @@
+{
+  "name": "vibe-coded-security-checks",
+  "title": "Vibe-Coded Application Security Review",
+  "version": "1.0.0",
+  "description": "Comprehensive security review skill for AI-generated applications, focusing on logic-level vulnerabilities and architectural issues that SAST tools miss.",
+  "author": "OIT-AISkills",
+  "license": "MIT",
+  "repository": "https://github.com/OIT-AISkills/vibe-coded-security-checks-skill",
+  "keywords": [
+    "security",
+    "review",
+    "audit",
+    "vibe-coding",
+    "data-exfiltration",
+    "secrets",
+    "privilege-escalation",
+    "vulnerability"
+  ],
+  "source": "SKILL.md",
+  "type": "skill"
+}
